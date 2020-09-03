@@ -1,4 +1,6 @@
 /*
+Pergunta 1 
+
 1 - Obter os ano-semestre em que todos os professores do departamento denominado "Informática" deram aula.
 Atenção! Um simples join não é a solução.
 */
