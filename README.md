@@ -1,6 +1,8 @@
 # PLSQL_Desafio
 Desafio PLSQL
 
+Scripts estão disponíveis dentro da pasta Desafio_PL.
+
 ## Pergunta 1
 - Utilização dos Scripts abaixo:
   - *CriacaoTabelas_B2W*; <br/>
