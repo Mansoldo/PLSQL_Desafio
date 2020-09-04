@@ -3,16 +3,16 @@ Desafio PLSQL
 
 ## Pergunta 1
 - Utilização dos Scripts abaixo:
-  - *CriacaoTabelas_B2W*;
+  - *CriacaoTabelas_B2W*; <br/>
     Neste script consta a estrutura DDL baseado no diagrama lógico para resolução. Foi criado de forma estruturada de acordo com os relacionamentos.
-  - *InsercaoDados_B2W*;
+  - *InsercaoDados_B2W*; <br/>
     Neste script consta as inserções realizadas.
-  - *Scripts_B2W*;
+  - *Scripts_B2W*; <br/>
     Consultas realizadas para obter as respostas das duas questões propostas
     
 ## Pergunta 2
   - Utilização do Script abaixo:
-    - *Scripts_B2W_2*;
+    - *Scripts_B2W_2*; <br/>
       Neste script consta em ordem sequencial:
         - Criação da tabela TABELA_PRAZO; 
         - Inserção dos valores na tabela TABELA_PRAZO;
@@ -23,8 +23,8 @@ Desafio PLSQL
         - Consulta de validação na tabela TABELA_PRAZO_COMPACTADO;
 ## Pergunta 3
   - Utilização do Script abaixo:
-    - *Scripts_B2W_3*;
-      Neste script consta em ordem sequencial:
+    *Scripts_B2W_3*; <br/>
+      - Neste script consta em ordem sequencial:
         - Criação da tabela EVENTS;
         - Criação da tabela temporária TEMP_EVENT;
         - Criação da procedure EVENTTYPE;
